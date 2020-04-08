@@ -1,0 +1,12 @@
+body{
+    color: aquamarine;
+    background-color: black;
+    background-image: url("img/imagem.png");
+    padding: 0%;
+    margin: 15px;
+    left: 15px solid;
+}
+h1{
+    color: white;
+    width: 5%;
+}
